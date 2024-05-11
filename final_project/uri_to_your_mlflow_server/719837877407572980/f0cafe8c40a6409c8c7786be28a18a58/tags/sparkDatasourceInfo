@@ -1,0 +1,6 @@
+path=dbfs:/tmp/labuser104917-3007326/bronze.delta/_delta_log/00000000000000000100.checkpoint.parquet,format=parquet
+path=s3a://voc-75-databricks-data/voc_volume,format=json
+path=dbfs:/tmp/labuser104917-3007326/bronze.delta,version=133,format=delta
+path=dbfs:/tmp/labuser104917-3007326/gold.delta,version=0,format=delta
+path=dbfs:/tmp/labuser104917-3007326/silver.delta,version=4,format=delta
+path=dbfs:/tmp/labuser104917-2387441/gold.delta,version=0,format=delta
