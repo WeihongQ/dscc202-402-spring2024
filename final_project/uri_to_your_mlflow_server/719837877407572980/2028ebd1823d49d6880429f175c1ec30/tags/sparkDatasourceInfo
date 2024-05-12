@@ -1,0 +1,2 @@
+path=dbfs:/tmp/labuser104917-3007326/bronze.delta,version=134,format=delta
+path=dbfs:/tmp/labuser104917-3007326/gold.delta,version=0,format=delta
